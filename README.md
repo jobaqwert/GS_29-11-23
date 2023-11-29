@@ -19,7 +19,7 @@ O HealthGuard Pro é uma solução de saúde digital que integra wearables e int
     - Um dispositivo ou emulador com Android/iOS.
 2. **Configuração**:
     
-    - Clone o repositório: `git clone https://github.com/seu-usuario/healthguard-pro.git`
+    - Clone o repositório: `git clone https://github.com/jobaqwert/GS_29-11-23.git`
     - Navegue até a pasta do repositório: `cd healthguard-pro`
 3. **Instalação de Dependências**:
     
