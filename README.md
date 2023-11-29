@@ -8,10 +8,7 @@ O HealthGuard Pro é uma solução de saúde digital que integra wearables e int
 
 - Monitoramento de saúde em tempo real
 - Recomendações personalizadas de saúde
-- Diagnóstico de risco via IA
-- Consultas médicas virtuais
 - Gerenciamento de medicamentos
-- Comunidade de apoio
 - Análises avançadas de dados de saúde
 
 ## Como Executar
