@@ -15,7 +15,7 @@ O HealthGuard Pro é uma solução de saúde digital que integra wearables e int
 
 1. **Pré-requisitos**:
     
-    - Instale o Flutter (versão X.X.X) e o Dart (versão X.X.X).
+    - Instale o Flutter e o Dart.
     - Um dispositivo ou emulador com Android/iOS.
 2. **Configuração**:
     
