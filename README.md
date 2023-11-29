@@ -20,21 +20,9 @@ O HealthGuard Pro é uma solução de saúde digital que integra wearables e int
 2. **Configuração**:
     
     - Clone o repositório: `git clone https://github.com/jobaqwert/GS_29-11-23.git`
-    - Navegue até a pasta do repositório: `cd healthguard-pro`
 3. **Instalação de Dependências**:
     
     - Execute `flutter pub get` para instalar todas as dependências necessárias.
 4. **Execução**:
     
     - Execute `flutter run` para iniciar o aplicativo no dispositivo/emulador conectado.
-5. **Testes**:
-    
-    - Execute `flutter test` para rodar todos os testes unitários e de widget.
-
-## Contribuição
-
-Para contribuir com o HealthGuard Pro, por favor, leia `CONTRIBUTING.md` para mais detalhes sobre o nosso código de conduta e o processo de submissão de pull requests.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo `LICENSE` para mais detalhes.
