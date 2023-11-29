@@ -35,7 +35,7 @@ class HealthGuardProApp extends StatelessWidget {
         '/home': (context) => HomeScreen(),
         '/alerts': (context) => AlertsScreen(),
         '/recommendations': (context) => RecommendationsScreen(),
-        '/imc-calculator': (context) => ImcCalcScreen(),
+        '/imc-calculator': (context) => IMCCalculatorScreen(),
       },
     );
   }
